@@ -22,5 +22,5 @@ indexes/
 *.faiss
 
 # Logs
-logs/
+#logs/
 chunks/
